@@ -1,0 +1,15 @@
+/config-service/.idea/
+/config-service/target/
+/config-service/config-service.iml
+/discovery-service/.idea/
+/discovery-service/target/
+/discovery-service/discovery-service.iml
+/edge-service/target/
+/edge-service/edge-service.iml
+/target/data/
+/springnative-backend-reactservice/.idea/
+/springnative-backend-reactservice/springnative-backend-reactservice.iml
+/springnative-backend-restservice/.idea/
+/springnative-backend-restservice/target/
+/springnative-backend-restservice/springnative-backend-restservice.iml
+/.idea/

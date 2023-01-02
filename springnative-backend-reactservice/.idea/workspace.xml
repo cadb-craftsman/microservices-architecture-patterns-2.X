@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="603eedc2-eb79-4046-869c-fbd52cd919fa" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../config-service/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../config-service/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../config-service/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../config-service/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../config-service/k8s/deployment.yml.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../config-service/k8s/network.yml.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../config-service/k8s/service.yml.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../config-service/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../config-service/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../config-service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../config-service/src/main/java/com/craftsman/configservice/ConfigServiceApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../config-service/src/main/resources/application.yml.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../config-service/src/main/resources/banner.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../config-service/src/test/java/com/craftsman/configservice/ConfigServiceAppTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../discovery-service/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../discovery-service/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../discovery-service/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../discovery-service/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../discovery-service/k8s/deployment.yml.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../discovery-service/k8s/network.yml.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../discovery-service/k8s/service.yml.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../discovery-service/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../discovery-service/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../discovery-service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../discovery-service/src/main/java/com/craftsman/discoveryservice/DiscoveryServiceApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../discovery-service/src/main/resources/application.yml.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../discovery-service/src/main/resources/banner.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../discovery-service/src/test/java/com/craftsman/discoveryservice/DiscoveryServiceAppTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../edge-service/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../edge-service/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../edge-service/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../edge-service/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../edge-service/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../edge-service/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../edge-service/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../edge-service/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../edge-service/k8s/deployment.yml.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../edge-service/k8s/network.yml.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../edge-service/k8s/service.yml.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../edge-service/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../edge-service/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../edge-service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../edge-service/src/main/java/com/craftsman/edgeservice/edgeservice/EdgeServiceApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../edge-service/src/main/java/com/craftsman/edgeservice/edgeservice/config/RateLimiterConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../edge-service/src/main/java/com/craftsman/edgeservice/edgeservice/web/WebEndPointsConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../edge-service/src/main/resources/application.yml.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../edge-service/src/main/resources/banner.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../edge-service/src/test/java/com/craftsman/edgeservice/configservice/ConfigServiceAppTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k8s/deployment.yml.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k8s/network.yml.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k8s/service.yml.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/craftsman/reactservice/ReactServiceApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/craftsman/reactservice/config/ReactServiceConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/craftsman/reactservice/controller/ReactServiceApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/craftsman/reactservice/controller/ReactServiceApiController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/craftsman/reactservice/controller/ReactServiceApiControllerAdvice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/craftsman/reactservice/domain/dto/ReactServiceDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/craftsman/reactservice/domain/exceptions/ReactServiceException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/craftsman/reactservice/domain/exceptions/ReactServiceResourceNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/craftsman/reactservice/domain/mappers/ReactServiceFactoryMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/craftsman/reactservice/domain/mappers/ReactServiceMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/craftsman/reactservice/domain/model/ReactServiceEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/craftsman/reactservice/repository/ReactServiceRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/craftsman/reactservice/services/IReactService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/craftsman/reactservice/services/ReactServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.yml.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/banner.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/db/_schema.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/db/schema.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/craftsman/reactservice/ReactServiceApiTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/craftsman/reactservice/ReactServiceRepositoryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/craftsman/reactservice/ReactServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/application-integration.yml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2Jm4XnQ5jFp3heQZAtJQGAKe9Jk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="603eedc2-eb79-4046-869c-fbd52cd919fa" name="Changes" comment="" />
+      <created>1672669967574</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1672669967574</updated>
+    </task>
+    <servers />
+  </component>
+</project>
