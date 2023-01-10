@@ -14,3 +14,13 @@
 /springnative-backend-restservice/springnative-backend-restservice.iml
 /.idea/
 /springnative-backend-reactservice/target/
+/config-eureka-service/.idea/
+/config-eureka-service/target/
+/discovery-eureka-service/.idea/
+/discovery-eureka-service/target/
+/edge-eureka-service/target/
+/springnative-backend-eureka-reactservice/.idea/
+/springnative-backend-eureka-reactservice/target/
+/springnative-backend-eureka-restservice/.idea/
+/springnative-backend-eureka-restservice/target/
+/springnative-backend-function/target/
