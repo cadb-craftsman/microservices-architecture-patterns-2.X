@@ -7,10 +7,8 @@ info:
 spring:
   application:
     name: '@project.artifactId@'
-  #lifecycle:
-  #  timeout-per-shutdown-phase: 15s
-  #config:
-  #  import: "optional:configserver:"
+  lifecycle:
+    timeout-per-shutdown-phase: 15s
   cloud:
     function:
       definition: backendFunctions

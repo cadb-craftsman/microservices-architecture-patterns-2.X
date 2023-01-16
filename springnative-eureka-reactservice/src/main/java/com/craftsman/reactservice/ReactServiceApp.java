@@ -30,7 +30,7 @@ public class ReactServiceApp {
     	log.info("Initialize connectionFactory");
         ConnectionFactoryInitializer initializer = new ConnectionFactoryInitializer();
         initializer.setConnectionFactory(connectionFactory);
-        initializer.setDatabasePopulator(new ResourceDatabasePopulator(new ClassPathResource("./db/schema.sql")));
+        initializer.setDatabasePopulator(new ResourceDatabasePopulator(new ClassPathResource("schema.sql")));
 
         return initializer;
     }
