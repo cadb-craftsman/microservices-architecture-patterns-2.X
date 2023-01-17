@@ -1,13 +1,13 @@
 ############## Info properties ###############
 info:
-  system: 'edge-service-eureka'
+  system: '@project.artifactId@'
   app:
-    name: 'edge-service-eureka'
-    version: '1.0.0-SNAPSHOT'
-############## Cloud properties ###############    
+    name: '@project.artifactId@'
+    version: '@project.version@'
+############## Cloud properties ###############
 spring:
   application:
-    name: 'edge-service-eureka'
+    name: '@project.artifactId@'
   lifecycle:
     timeout-per-shutdown-phase: 15s
   cloud:
@@ -23,12 +23,13 @@ spring:
         - id: springnative-service-name
           uri: ${NAME_SERVICE_URL:http://localhost:8080}/service
           predicates:
-          - Path=/service/**     
+            - Path=/service/**
 ############## Eureka client properties ###############
 eureka:
   client:
-   serviceUrl:
-      defaultZone: http://localhost:8761/eureka/    
+    register-with-eureka: true
+    serviceUrl:
+      defaultZone: http://localhost:8761/eureka/
 ############## Management properties ###############
 management:
   endpoints:
@@ -50,7 +51,7 @@ management:
       enabled: true
   metrics:
     tags:
-      application: 'edge-service-eureka'       
+      application: '@project.artifactId@'
 ############## Server properties ###############
 server:
   port: 9000
@@ -61,4 +62,4 @@ server:
 ############## Log properties ###############
 logging:
   level:
-    '[com.craftsman.edgeservice.configservice]': DEBUG
+    '[@project.groupId@]': DEBUG
